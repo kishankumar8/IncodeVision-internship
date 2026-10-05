@@ -1,2 +1,2 @@
-# IncodeVision-intership-Tasks-
+# IncodeVision-intership-Tas
 This repository is for my internship tasks where i upload all my internship tasks. 
