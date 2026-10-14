@@ -2,6 +2,6 @@
 
 This repository is for my internship tasks where i upload all my internship. 
 
-# Task 1
+# Task 1( EDA and Data Cleaning )
 
 ->
