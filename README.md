@@ -50,12 +50,9 @@ Speed Limit vs Number of Fatalities
 A scatter plot is used to explore the relationship between speed limits and the number of fatalities. The plot alone does not establish causation.
 Month vs Year
 A bar chart is created using the Month and Year columns as coded in the notebook. For a more meaningful time-based analysis, consider plotting accident counts by month or year if the dataset contains an accident count or suitable record-level rows.
-▶️ How to Run
-1. Clone or download this repository.
-2. Make sure Python is installed.
-3. Install the required libraries:pip install pandas numpy matplotlib seaborn jupyter
-4. Place accident_prediction_india.csv in the same folder as the notebook.
-5. Open Jupyter Notebook:jupyter notebook
+
+ 
+ Notebook:jupyter notebook
 6. Open task_1.ipynb and run the cells in order.
 💡 Key Learning Outcomes
 - Reading CSV files with Pandas.
