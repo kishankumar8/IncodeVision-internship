@@ -44,6 +44,8 @@ Note: Add the CSV and plot images to your repository if you want this structure 
 
    
 📊 Visualizations
+
+
 Speed Limit vs Number of Fatalities
 A scatter plot is used to explore the relationship between speed limits and the number of fatalities. The plot alone does not establish causation.
 Month vs Year
