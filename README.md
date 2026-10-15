@@ -1,6 +1,6 @@
 # IncodeVision-internship
 
-This repository is for my internship tasks where i 
+This repository is for my internship tasks 
 
 # Task 1 ( EDA and Data Cleaning ) .
 
