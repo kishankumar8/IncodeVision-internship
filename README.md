@@ -142,6 +142,108 @@ Add a license if you want others to reuse this project.
 
 # Task 3 (Email_Spam_Prediction ) .
 
+readme = """# Email Spam Detection using Deep Learning 📧
+
+## 📌 Project Overview
+This project builds a binary email classification model to identify spam and non-spam emails. The notebook loads `spam_email_dataset.csv`, prepares the features, trains a neural network using TensorFlow/Keras, and evaluates its predictions with common classification metrics.
+
+## 🎯 Objectives
+- Load and inspect an email dataset.
+- Separate the target label from the input features.
+- Convert selected categorical/text columns into numeric dummy features.
+- Split the data into training and testing sets.
+- Scale the features.
+- Train a feed-forward neural network for binary classification.
+- Evaluate the model using accuracy, precision, recall, and F1-score.
+
+## 🛠️ Technologies & Libraries
+- Python
+- Pandas and NumPy — data handling
+- Scikit-learn — preprocessing, train-test split, and evaluation metrics
+- TensorFlow / Keras — neural network model
+- Matplotlib and Seaborn — visualization libraries imported in the notebook
+
+## 📂 Project Structure
+```text
+Email-Spam-Detection/
+├── Email_detection.ipynb
+└── spam_email_dataset.csv
+```
+
+Keep `spam_email_dataset.csv` in the same directory as the notebook, or change the file path in the code.
+
+## 🔄 Workflow
+
+### 1. Load the Dataset
+The notebook loads the CSV file:
+```python
+df = pd.read_csv("spam_email_dataset.csv")
+```
+It then checks the dataset's information, summary statistics, column names, shape, missing values, data types, and first rows.
+
+### 2. Select Features and Target
+The notebook uses `label` as the target:
+```python
+y = df["label"]
+x = df.drop(["label"], axis=1)
+```
+
+### 3. Encode Features
+The notebook applies `pd.get_dummies()` to `subject`, `email_text`, `sender_email`, and `sender_domain`, with `drop_first=True`, to convert these columns into numeric indicator features.
+
+### 4. Split the Dataset
+The data is split into training and testing sets using an 80/20 split, `random_state=42`, and stratification by `label`.
+
+### 5. Scale Features
+`StandardScaler` is fitted on the training features and then applied to the test features.
+
+### 6. Build and Train the Neural Network
+The model is a feed-forward neural network with:
+- Input layer followed by a Dense layer with 128 units and ReLU activation
+- Dense hidden layer with 64 units and ReLU activation
+- Output layer with 1 unit and sigmoid activation
+
+The model is compiled with the Adam optimizer, binary cross-entropy loss, and accuracy as a training metric. It is trained for 50 epochs with a batch size of 32 and uses 20% of the training data for validation.
+
+### 7. Evaluate the Model
+The notebook predicts labels for the test set using a threshold of 0.5 and calculates:
+- **Accuracy:** overall proportion of correct predictions.
+- **Precision:** proportion of predicted spam-positive cases that are correct.
+- **Recall:** proportion of actual positive cases identified.
+- **F1-score:** harmonic mean of precision and recall.
+
+The notebook calculates these metrics when run. No specific performance score is stated here because results depend on the dataset and execution.
+
+## ▶️ How to Run
+1. Download or clone this repository.
+2. Install Python.
+3. Install dependencies:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn tensorflow jupyter
+   ```
+4. Put `spam_email_dataset.csv` in the project folder.
+5. Start Jupyter:
+   ```bash
+   jupyter notebook
+   ```
+6. Open `Email_detection.ipynb` and run cells from top to bottom.
+
+## ⚠️ Notes and Limitations
+- The notebook uses `pd.get_dummies()` on `email_text` and other high-cardinality fields. This can create a very large feature matrix and does not capture text similarity in the same way as a TF-IDF representation. `TfidfVectorizer` is imported but is not used in the current notebook.
+- `StandardScaler` may be inefficient for a very wide sparse feature matrix; a sparse-friendly text preprocessing pipeline may be more suitable.
+- Confirm how the dataset encodes `label` (for example, 0 and 1) before interpreting precision and recall as spam-specific.
+- The notebook evaluates the model but does not save the trained model for later use.
+
+## 👤 Author
+Add your name and GitHub profile here.
+
+## 📄 License
+Add a license if you want others to reuse this project.
+"""
+path="/mnt/data/README_email_spam_detection.md"
+with open(path,"w",encoding="utf-8") as f:
+    f.write(readme)
+print(path, os.path.getsize(path))
 
 
 # Task 4 (Churn_Prediction )  .
