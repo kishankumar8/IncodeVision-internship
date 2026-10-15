@@ -41,6 +41,8 @@ Note: Add the CSV and plot images to your repository if you want this structure 
 3. Inspect the data — use info(), describe(), head(), tail(), and shape to understand the dataset.
 4. Handle missing values — replace "Unknown" in City Name with a missing value, then fill missing values in Traffic Control Presence, Driver License Status, and City Name using each column's mode.
 5. Visualize the data — create a scatter plot of Speed Limit (km/h) against Number of Fatalities, and a bar chart using Month and Year.
+
+   
 📊 Visualizations
 Speed Limit vs Number of Fatalities
 A scatter plot is used to explore the relationship between speed limits and the number of fatalities. The plot alone does not establish causation.
