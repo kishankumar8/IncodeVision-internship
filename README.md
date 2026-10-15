@@ -74,8 +74,12 @@ Add a license if you intend to make this project reusable by others.
 # Task 2 ( House_Price_Prediction ) .
 
 House Price Prediction 🏠
+
 📌 Project Overview
+
 This project uses a Linear Regression model to predict house prices from a dataset loaded from data.csv. The notebook explores the data, converts selected categorical columns into numeric features, trains and evaluates the model, and visualizes prediction results.
+
+
 🎯 Objectives
 - Explore and inspect the house-price dataset.
 - Check data types, dataset dimensions, summary statistics, and missing values.
@@ -84,6 +88,8 @@ This project uses a Linear Regression model to predict house prices from a datas
 - Train a Linear Regression model.
 - Evaluate predictions using MAE, MSE, and R².
 - Visualize the price distribution and actual-versus-predicted prices.
+
+  
 🛠️ Technologies & Libraries
 - Python
 - Pandas
@@ -91,6 +97,8 @@ This project uses a Linear Regression model to predict house prices from a datas
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+  
 📂 Project Structure
 House-Price-Prediction/
 ├── house_prediction.ipynb
