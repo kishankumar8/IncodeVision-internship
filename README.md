@@ -16,12 +16,16 @@ This project explores road accident data in India using Python. It focuses on un
 - Identify and handle missing or unknown values.
 - Visualize the relationship between speed limits and number of fatalities.
 - Plot month and year data for an initial overview.
+
+  
 🛠️ Tools & Libraries
 - Python
 - Pandas — data loading and manipulation
 - NumPy — numerical operations
 - Matplotlib — charts and plots
 - Seaborn — visualization library imported in the notebook
+
+  
 📂 Project Structure
 Road-Accident-Data-Analysis/
 ├── task_1.ipynb
