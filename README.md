@@ -4,8 +4,12 @@
 # Task 1 ( EDA and Data Cleaning ) .
 
 Road Accident Data Analysis in India 🚗
+
+
 📌 Project Overview
+
 This project explores road accident data in India using Python. It focuses on understanding the dataset, checking data quality, handling missing values, and visualizing relationships between selected accident-related variables.
+
 🎯 Objectives
 - Load and inspect the road accident dataset.
 - Perform basic exploratory data analysis (EDA).
