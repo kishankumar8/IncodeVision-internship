@@ -1,7 +1,6 @@
 # IncodeVision-internship
 
-This repository is for my 
-
+This repository is for 
 # Task 1 ( EDA and Data Cleaning ) .
 
 Road Accident Data Analysis in India 🚗
