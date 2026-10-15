@@ -33,6 +33,8 @@ Road-Accident-Data-Analysis/
 ├── speed limit vs no. of fatalities.png
 └── months vs years.png
 Note: Add the CSV and plot images to your repository if you want this structure to match your uploaded project files.
+
+
 🔍 Workflow
 1. Import libraries — import Pandas, NumPy, Matplotlib, and Seaborn.
 2. Load the dataset — read accident_prediction_india.csv into a Pandas DataFrame.
