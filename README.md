@@ -63,7 +63,7 @@ A bar chart is created using the Month and Year columns as coded in the notebook
 - 
 ⚠️ Notes
 - Results depend on the dataset's quality and contents.
-- Filling missing values with the mode is a simple baseline approach; check whether it is appropriate for each column 
+- Filling missing values with the mode is a simple baseline approach
 
 
 
