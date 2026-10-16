@@ -64,9 +64,7 @@ A bar chart is created using the Month and Year columns as coded in the notebook
 - Results depend on the dataset's quality and contents.
 - Filling missing values with the mode is a simple baseline approach; check whether it is appropriate for each column before using the data for further analysis.
 - This notebook performs data analysis and visualization. It does not currently train or evaluate a machine-learning accident prediction model.
-👤 Author
-Add your name and GitHub profile here.
-📄 License
+
 Add a license if you intend to 
 
 
