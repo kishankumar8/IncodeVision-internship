@@ -62,9 +62,7 @@ A bar chart is created using the Month and Year columns as coded in the notebook
 - Creating scatter plots and bar charts with Matplotlib.
 - 
 ⚠️ Notes
-- Results depend on the dataset's quality and contents.
-- Filling missing values with the mode is a simple baseline approach
-
+- Results depend on the dataset
 
 
 # Task 2 ( House_Price_Prediction ) .
