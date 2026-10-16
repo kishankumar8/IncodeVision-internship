@@ -67,7 +67,7 @@ A bar chart is created using the Month and Year columns as coded in the notebook
 👤 Author
 Add your name and GitHub profile here.
 📄 License
-Add a license if you intend to make this project reusable 
+Add a license if you intend to make this project reus
 
 
 # Task 2 ( House_Price_Prediction ) .
