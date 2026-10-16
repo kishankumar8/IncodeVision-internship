@@ -60,9 +60,6 @@ A bar chart is created using the Month and Year columns as coded in the notebook
 - Detecting and handling missing values.
 - Using mode imputation for selected categorical columns.
 - Creating scatter plots and bar charts with Matplotlib.
-- 
-⚠️ Notes
-
 
 
 # Task 2 ( House_Price_Prediction ) .
