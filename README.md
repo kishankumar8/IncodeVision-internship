@@ -96,7 +96,7 @@ House-Price-Prediction/
 ├── data.csv
 ├── outliers.png                 
 └── actual_vs_predicted.png      
-Note: Keep data.csv in the same folder as the notebook, or update the file path in the code. The plot images are generated when the corresponding notebook cells run.
+
 
 
 🔄 Project Workflow
