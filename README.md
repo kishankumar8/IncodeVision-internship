@@ -139,7 +139,7 @@ The actual metric values depend on the dataset and the results produced when the
 3. Install the required packages:pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 4. Place data.csv in the same directory as house_prediction.ipynb.
 5. Start Jupyter Notebook:jupyter notebook
-6. Open house_prediction.ipynb and run the cells from top to bottom.
+6. Open house_prediction.ipynb ttom.
 📈 Model Notes
 This notebook uses a basic Linear Regression model as a starting point. Performance should be judged using the evaluation metrics and visualizations rather than assumed in advance. For a stronger evaluation, consider checking unusual price values, validating feature types,rice, date, street, city, statezip, and country.
 - The README does not claim a particular accuracy or performance score because that depends on the data and the actual 
