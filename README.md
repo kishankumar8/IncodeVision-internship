@@ -37,6 +37,7 @@ Road-Accident-Data-Analysis/
 ├── speed limit vs no. of fatalities.png
 
 └── months vs years.png
+
 Note: Add the CSV and plot images to your repository if you want this structure to match your uploaded project 
 
 
@@ -96,10 +97,15 @@ This project uses a Linear Regression model to predict house prices from a datas
 
   
 📂 Project Structure
+
 House-Price-Prediction/
+
 ├── house_prediction.ipynb
+
 ├── data.csv
-├── outliers.png                 
+
+├── outliers.png
+
 └── actual_vs_predicted.png      
 
 
