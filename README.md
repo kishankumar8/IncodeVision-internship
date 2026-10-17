@@ -146,11 +146,7 @@ This notebook uses a basic Linear Regression model as a starting point. Performa
 - The notebook expects a file named data.csv and specific columns including price, date, street, city, statezip, and country.
 - The README does not claim a particular accuracy or performance score because that depends on the data and the actual run results.
 - The notebook includes a missing-value count check; the printed message alone does not handle missing values. Verify the output of df.isnull().sum() before training.
-- The notebook creates plots, but it does not save a trained model for later use.
-👤 Author
-Add your name and GitHub 
-Add a license if you 
-
+- The notebook creates plots, but it does not save a 
 
 # Task 3 (Email_Spam_Prediction ) .
 
