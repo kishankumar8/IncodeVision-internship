@@ -142,7 +142,9 @@ The actual metric values depend on the dataset and the results produced when the
 6. Open house_prediction.ipynb ttom.
 📈 Model Notes
 This notebook uses a basic Linear Regression model as a starting point. Performance should be judged using the evaluation metrics and visualizations rather than assumed in advance. For a stronger evaluation, consider checking unusual price values, validating feature types,rice, date, street, city, statezip, and country.
-- The README does not claim a particular accuracy or performance score because that depends on the data and the actual 
+- The README does not claim a particular accuracy or performance score because that
+
+
 
 # Task 3 (Email_Spam_Prediction ) .
 
