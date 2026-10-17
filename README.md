@@ -148,8 +148,7 @@ This notebook uses a basic Linear Regression model as a starting point. Performa
 - The notebook includes a missing-value count check; the printed message alone does not handle missing values. Verify the output of df.isnull().sum() before training.
 - The notebook creates plots, but it does not save a trained model for later use.
 👤 Author
-Add your name and GitHub profile here.
-📄 License
+Add your name and GitHub 
 Add a license if you 
 
 
