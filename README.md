@@ -150,7 +150,7 @@ This notebook uses a basic Linear Regression model as a starting point. Performa
 👤 Author
 Add your name and GitHub profile here.
 📄 License
-Add a license if you want others to reuse this 
+Add a license if you want others to reuse 
 
 
 # Task 3 (Email_Spam_Prediction ) .
