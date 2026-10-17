@@ -27,12 +27,17 @@ This project explores road accident data in India using Python. It focuses on un
 
   
 📂 Project Structure
+
 Road-Accident-Data-Analysis/
+
 ├── task_1.ipynb
+
 ├── accident_prediction_india.csv
+
 ├── speed limit vs no. of fatalities.png
+
 └── months vs years.png
-Note: Add the CSV and plot images to your repository if you want this structure to match your uploaded project files.
+Note: Add the CSV and plot images to your repository if you want this structure to match your uploaded project 
 
 
 🔍 Workflow
