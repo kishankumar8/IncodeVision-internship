@@ -144,9 +144,7 @@ The actual metric values depend on the dataset and the results produced when the
 This notebook uses a basic Linear Regression model as a starting point. Performance should be judged using the evaluation metrics and visualizations rather than assumed in advance. For a stronger evaluation, consider checking unusual price values, validating feature types, and comparing Linear Regression with other regression models.
 ⚠️ Limitations
 - The notebook expects a file named data.csv and specific columns including price, date, street, city, statezip, and country.
-- The README does not claim a particular accuracy or performance score because that depends on the data and the actual run results.
-- The notebook includes a missing-value count check; the printed message alone does not handle missing values. Verify the output of df.isnull().sum() before training.
-- The notebook creates plots, but it does not save a 
+- The README does not claim a particular accuracy or performance score because that depends on the data and the actual 
 
 # Task 3 (Email_Spam_Prediction ) .
 
