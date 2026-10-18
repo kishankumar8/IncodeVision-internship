@@ -232,6 +232,8 @@ The notebook predicts labels for the test set using a threshold of 0.5 and calcu
 
 The notebook calculates these metrics when run. No specific performance score is stated here because results depend on the dataset and execution.
 
+
+
 ## ▶️ How to Run
 1. Download or clone this repository.
 2. Install Python.
@@ -348,6 +350,8 @@ The notebook creates:
 - Box plot of `Balance` by `Exited`
 - Box plot of `IsActiveMember` by `Exited`
 - Scatter plot of `EstimatedSalary` against `Tenure`
+
+- 
 
 ## ▶️ How to Run
 1. Download or clone this repository.
