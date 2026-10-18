@@ -38,7 +38,7 @@ Road-Accident-Data-Analysis/
 
 └── months vs years.png
 
-Note: Add the CSV and plot images to your repository if 
+Note: Add the CSV and plot images to 
 
 
 🔍 Workflow
