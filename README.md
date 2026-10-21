@@ -152,7 +152,7 @@ The actual metric values depend on the dataset and the results produced when the
 5. Start Jupyter Notebook:jupyter notebook
 6. Open house_prediction.ipynb ttom.
 📈 Model Notes
-This notebook uses a basic Linear Regression model as a starting point. Performance should be judged using the evaluation metrics and visualizations rather than assumed i
+This notebook uses a basic Linear Regression model as a starting point. Performance should be judged using the evaluation metrics and visualizations rather than assu
 
 
 # Task 3 (Email_Spam_Prediction ) .
