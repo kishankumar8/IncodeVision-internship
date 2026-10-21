@@ -244,7 +244,7 @@ The notebook calculates these metrics when run. No specific performance score is
    ```bash
    jupyter notebook
    ```
-6. Open `Email_detection.ipynb` and run cells from top to bottom.
+6. Open `Email_detection.ipynb` and run cells from top to bot
 
 ## ⚠️ Notes and Limitations
 - The notebook uses `pd.get_dummies()` on `email_text` and other high-cardinality fields. This can create a very large feature matrix and does not capture text similarity in the same way as a TF-IDF representation. `TfidfVectorizer` is imported but is not used in the current notebook.
