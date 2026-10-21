@@ -151,8 +151,7 @@ The actual metric values depend on the dataset and the results produced when the
 4. Place data.csv in the same directory as house_prediction.ipynb.
 5. Start Jupyter Notebook:jupyter notebook
 6. Open house_prediction.ipynb ttom.
-📈 Model Notes
-This notebook uses a basic Linear Regression model as a starting point. Performance should be judged using the evaluation metrics and visualizations 
+📈 Model Noa starting point. Performance should be judged using the evaluation metrics and visualizations 
 
 # Task 3 (Email_Spam_Prediction ) .
 
