@@ -143,7 +143,9 @@ The actual metric values depend on the dataset and the results produced when the
 - Price box plot: visual inspection of the price distribution and potential outliers.
 - Actual vs. Predicted scatter plot: compares actual test prices with model predictions.
 
-- 
+
+
+
 ▶️ How to Run the Project
 1. Download or clone this repository.
 2. Install Python if it is not already installed.
@@ -151,7 +153,10 @@ The actual metric values depend on the dataset and the results produced when the
 4. Place data.csv in the same directory as house_prediction.ipynb.
 5. Start Jupyter Notebook:jupyter notebook
 6. Open house_prediction.ipynb ttom.
-📈 Model Noa starting 
+📈 Model Noa starting
+
+
+
 
 # Task 3 (Email_Spam_Prediction ) .
 
