@@ -151,7 +151,7 @@ The actual metric values depend on the dataset and the results produced when the
 2. Install Python if it is not already installed.
 3. Install the required packages:pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 4. Place data.csv in the same directory as house_prediction.ipynb.
-5. Start Jupyter Noteboo
+5. Start Jupyter Note
 
 
 
