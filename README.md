@@ -150,7 +150,7 @@ The actual metric values depend on the dataset and the results produced when the
 1. Download or clone this repository.
 2. Install Python if it is not already installed.
 3. Install the required packages:pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-4. Place data.csv in the same directory as house_prediction
+4. Place data.csv in the same directory as house_predicti
 
 
 
