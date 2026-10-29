@@ -262,7 +262,7 @@ Add a license if you want others to reuse this project.
 path="/mnt/data/README_email_spam_detection.md"
 with open(path,"w",encoding="utf-8") as f:
     f.write(readme)
-print(path, os.path.getsize(path))
+print(path, os.path.getsize(path
 
 
 # Task 4 (Churn_Prediction )  .
