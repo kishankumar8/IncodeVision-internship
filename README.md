@@ -149,7 +149,7 @@ The actual metric values depend on the dataset and the results produced when the
 ▶️ How to Run the Project
 1. Download or clone this reposito
 2. Install Python if it is not already insta
-3. Install the required packages:pip nstall pandas numpy matp
+3. Install the required packages:pip nstall pandas numpy mat
 
 
 
