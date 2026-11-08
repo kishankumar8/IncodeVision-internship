@@ -1,4 +1,4 @@
-# IncodeVision-internship  .
+# IncodeVision-Internship  .
 
 
 # Task 1 ( EDA and Data Cleaning ) .
