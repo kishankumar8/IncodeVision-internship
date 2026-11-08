@@ -150,8 +150,6 @@ The actual metric values depend on the dataset and the results produced when the
 1. Download or clone this reposito
 2. Install Python if it is not alrea
 4. Install the
-5. 
-
 
 
 # Task 3 (Email_Spam_Prediction ) .
