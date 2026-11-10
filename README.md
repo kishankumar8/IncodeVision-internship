@@ -148,7 +148,7 @@ The actual metric values depend on the dataset and the results produced when the
 
 ▶️ How to Run the Project
 1. Download or clone this rep
-2. Install Python if 
+2. Install Python 
 
 # Task 3 (Email_Spam_Prediction ) .
 
