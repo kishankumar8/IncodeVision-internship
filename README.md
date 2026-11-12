@@ -3,7 +3,7 @@
 
 # Task 1 ( EDA and Data Cleaning ) .
 
-Road Accident Data Analysis in India 🚗
+**Road Accident Data Analysis in India 🚗**
 
 
 📌 Project Overview
