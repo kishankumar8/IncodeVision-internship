@@ -145,8 +145,6 @@ The actual metric values depend on the dataset and the results produced when the
 
 
 
-
-
 # Task 3 (Email_Spam_Prediction ) .
 
 readme = """# Email Spam Detection using Deep Learning 📧
