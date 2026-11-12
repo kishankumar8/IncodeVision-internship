@@ -223,7 +223,7 @@ The notebook calculates these metrics when run. No specific performance score is
 
 
 
-## ▶️ How to Run
+## ▶️ How to 
 1. Download or clone this repository.
 2. Install Python.
 3. Install dependencies:
