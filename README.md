@@ -70,7 +70,7 @@ A bar chart is created using the Month and Year columns as coded in the notebook
 
 # Task 2 ( House_Price_Prediction ) .
 
-House Price Prediction 🏠
+**House Price Prediction 🏠**
 
 📌 Project Overview
 
