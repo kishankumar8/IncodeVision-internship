@@ -258,7 +258,7 @@ print(path, os.path.getsize(p
 # Task 4 (Churn_Prediction )  .
 
 
-readme** Customer Churn Prediction 📊**
+read  ** Customer Churn Prediction 📊**
 
 ## 📌 Project Overview
 This project uses machine learning to predict customer churn from a customer dataset. The notebook explores the data, prepares categorical features, trains a Random Forest Classifier, evaluates predictions, and creates visualizations to explore how selected customer attributes relate to the `Exited` target.
