@@ -147,7 +147,7 @@ The actual metric values depend on the dataset and the results produced when the
 
 # Task 3 (Email_Spam_Prediction ) .
 
-r Email Spam Detection using Deep Learning 📧
+Email Spam Detection using Deep Learning 📧
 
 ## 📌 Project Overview
 
