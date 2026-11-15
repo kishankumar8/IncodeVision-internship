@@ -366,7 +366,7 @@ The notebook creates:
 ## 👤 Author
 Add your name and GitHub profile here.
 
-## 📄 License
+## 📄 Lice
 Add a license if you want others to reuse this project.
 """
 path="/mnt/data/README_customer_churn_prediction.md"
