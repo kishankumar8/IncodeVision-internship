@@ -370,5 +370,4 @@ Add your name and GitHub profile here.
 Add a license if you want others to reuse this project.
 """
 path="/mnt/data/README_customer_churn_prediction.md"
-with open(path,"w",encoding="utf-8") as f:
-    
+with open(path,"w",encoding="utf-8") as 
