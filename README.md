@@ -371,4 +371,4 @@ Add a license if you want others to reuse this project.
 """
 path="/mnt/data/README_customer_churn_prediction.md"
 with open(path,"w",encoding="utf-8") as f:
-    f.wri
+    f.w
