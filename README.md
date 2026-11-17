@@ -369,5 +369,4 @@ Add your name and GitHub profile here.
 ## 📄 Lice
 Add a license if you want others to reuse this project.
 """
-path="/mnt/data/README_customer_churn_prediction.md"
-with 
+path="/mnt/data/README_customer_churn_pred
