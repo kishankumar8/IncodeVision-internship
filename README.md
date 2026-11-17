@@ -363,7 +363,7 @@ The notebook creates:
 - ROC AUC is more informative when calculated from predicted probabilities, for example `model.predict_proba(x_test)[:, 1]`, rather than hard class labels.
 - The notebook does not currently save the trained model for reuse.
 
-## 👤 Author
+## 👤 Aut
 Add your name and GitHub profile here.
 
 ## 📄 Lice
