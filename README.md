@@ -367,4 +367,4 @@ The notebook creates:
 Add your name and GitHub profile here.
 
 ## 📄
-Add a license if you want others to re
+Add a license if you want others to 
