@@ -227,7 +227,7 @@ The notebook calculates these metrics when run. No specific performance score is
 1. Download or clone this repository.
 2. Install Python.
 3. Install dependencies:
-   ```bash
+   ```b
    pip install pandas numpy matplotlib seaborn scikit-learn tensorflow jupyter
    ```
 4. Put `spam_email_dataset.csv` in the project folder.
