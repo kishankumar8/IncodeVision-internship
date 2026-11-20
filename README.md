@@ -350,7 +350,7 @@ The notebook creates:
    pip install pandas numpy matplotlib seaborn scikit-learn jupyter
    ```
 4. Place `Churn_dataset.csv` in the same directory as `churn.ipynb`.
-5. Start Jupyter Notebook:
+5. Start Jupyter Noteb
    ```bash
    jupyter notebook
    ```
